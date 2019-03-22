@@ -1,0 +1,10 @@
+'use strict';
+// mongo
+module.exports = {
+  mongo_url:"",
+  replicaSetName:"rep_webar",
+  options: {
+    useMongoClient: true,
+    authSource:"admin"
+  },
+};

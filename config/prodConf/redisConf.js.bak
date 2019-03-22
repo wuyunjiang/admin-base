@@ -1,0 +1,6 @@
+'use strict';
+// redis
+module.exports = {
+  ip: '',
+  port: '',
+};
